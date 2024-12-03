@@ -19,7 +19,7 @@
 </picture>
 </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kathe-dev/kathe-dev/main/.github/images/nodejs-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://nodejs.org/static/logos/nodejsStackedLight.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
     <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40">
 </picture>
