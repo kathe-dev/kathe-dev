@@ -17,7 +17,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.worldvectorlogo.com/logos/next-js.svg">
     <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NestJS" width="40" height="40">
 </picture>
-</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kathe-dev/kathe-dev/main/.github/images/nodejs-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
